@@ -5,7 +5,7 @@
 - 🌱 I’m learning **advanced animations, REST APIs, and Firebase tricks**
 - 👯 I’m looking to collaborate on **real-world Flutter apps**
 - 💬 Ask me about **Flutter, Dart, Firebase, FlutterFlow**
-- 📫 How to reach me: **kumail@example.com**
+- 📫 How to reach me: **kumailr436@gmail.com**
 - ⚡ Fun fact: I love turning boring UIs into animated beauty!
 
 ---
