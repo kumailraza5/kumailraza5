@@ -1,58 +1,34 @@
-# Hi there, I'm [Kumail Raza] — Flutter Developer!
+<h1 align="center">Hi 👋, I'm Kumail Raza</h1>
+<h3 align="center">A passionate Flutter & FlutterFlow Developer from Pakistan</h3>
 
-![Flutter Badge](https://img.shields.io/badge/Made%20with-Flutter-blue)
-![Dart Badge](https://img.shields.io/badge/Language-Dart-orange)
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
-
----
-
-## 🚀 About Me
-I'm a passionate Flutter developer who loves building smooth and beautiful mobile apps.  
-From UI animations to real-time databases — I make magic with Dart.
+- 🔭 I’m currently working on [Food Delivery UI in FlutterFlow](https://github.com/kumailraza5/food-delivery-flutterflow)
+- 🌱 I’m learning **advanced animations, REST APIs, and Firebase tricks**
+- 👯 I’m looking to collaborate on **real-world Flutter apps**
+- 💬 Ask me about **Flutter, Dart, Firebase, FlutterFlow**
+- 📫 How to reach me: **kumail@example.com**
+- ⚡ Fun fact: I love turning boring UIs into animated beauty!
 
 ---
 
-## 🔨 Tech Stack
-- Flutter & Dart
-- Firebase (Auth, Firestore, Storage)
-- REST APIs
-- Provider / Riverpod / BLoC
-- Git & GitHub
+### 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FlutterFlow-E40046?style=for-the-badge&logo=data:image/svg+xml;base64,..."/>
+</p>
 
 ---
 
-## 🧠 Projects
-
-### 1. **AI Chat App**
-A ChatGPT-style app using OpenAI API with voice input/output.  
-[Repo Link](https://github.com/your-username/ai-chat-app) | `Flutter`, `speech_to_text`, `flutter_tts`
-
-![ai-chat-app-gif](link-to-gif)
-
----
-
-### 2. **Expense Tracker**
-Track your daily expenses with pie charts and local DB.
-
-[Repo Link](https://github.com/your-username/expense-tracker) | `Flutter`, `sqflite`, `fl_chart`
-
-![expense-tracker-gif](link-to-gif)
+### 📂 My Projects
+| Project | Description | Link |
+|--------|-------------|------|
+| Weather App | Weather UI with OpenWeather API | [View](https://github.com/kumailraza5/weather_app_flutterflow) |
+| To-Do App | Firebase task manager with auth | [View](https://github.com/kumailraza5/todo_app_firebase) |
+| Food Delivery | Beautiful UI with transitions | [View](https://github.com/kumailraza5/animated_food_delivery_ui) |
 
 ---
 
-### 3. **Animated Food Delivery UI**
-Fully animated food delivery app concept.
-
-[Repo Link](https://github.com/your-username/food-delivery-ui) | `Flutter`, `lottie`, `flutter_animate`
-
-![food-ui-gif](link-to-gif)
-
----
-
-## 📫 Connect With Me
-[LinkedIn](www.linkedin.com/in/kumail-raza-4440a9261)  
-Email: kumailr436@gmail.com
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+### 📫 Connect With Me
+[![LinkedIn](www.linkedin.com/in/kumail-raza-4440a9261)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:kumailr436@gmail.com)
