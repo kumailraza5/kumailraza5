@@ -23,8 +23,7 @@
 ### 📂 My Projects
 | Project | Description | Link |
 |--------|-------------|------|
-| Weather App | Weather UI with OpenWeather API | [View](https://github.com/kumailraza5/weather_app_flutterflow) |
-| To-Do App | Firebase task manager with auth | [View](https://github.com/kumailraza5/todo_app_firebase) |
+
 | Food Delivery | Beautiful UI with transitions | [View](https://github.com/kumailraza5/animated_food_delivery_ui) |
 
 ---
