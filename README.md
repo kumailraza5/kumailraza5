@@ -29,5 +29,6 @@
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](www.linkedin.com/in/kumail-raza-4440a9261)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:kumailr436@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumail-raza-4440a9261)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumailr436@gmail.com)
+
