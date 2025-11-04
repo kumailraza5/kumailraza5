@@ -1,12 +1,23 @@
 <h1 align="center">Hi 👋, I'm Kumail Raza</h1>
-<h3 align="center">A professional React & WordPress Developer from Pakistan</h3>
+<h3 align="center">A Professional React & WordPress Developer — Turning Ideas into High-Performance Websites</h3>
 
-- 🔭 I’m currently working on [Modern Business Website in React](https://github.com/kumailraza5/modern-business-react)
-- 🌱 I’m learning **Next.js, Tailwind CSS, and WordPress REST API**
-- 👯 I’m looking to collaborate on **creative web apps and custom WordPress themes**
-- 💬 Ask me about **React, JavaScript, Tailwind CSS, WordPress, REST APIs**
-- 📫 How to reach me: **kumailr436@gmail.com**
-- ⚡ Fun fact: I love turning static designs into dynamic, responsive web experiences!
+I’m a passionate **Frontend & CMS Developer** from Pakistan, building responsive, SEO-optimized, and fast-loading web solutions for **personal and business clients worldwide**.  
+Whether it’s a modern React web app or a custom WordPress site — I deliver clean, efficient, and scalable code.
+
+---
+
+### 🚀 What I Do
+- 💼 I build **React & Next.js** websites that are fast, responsive, and easy to scale  
+- 🎨 I create **custom WordPress themes** and integrate advanced plugins for unique business needs  
+- 🔧 I connect APIs, handle Firebase or REST integrations, and deploy production-ready apps  
+- 🤝 I work with **personal clients and small businesses** to bring their ideas online with creativity & precision  
+
+---
+
+### 🌱 Currently Learning
+- Advanced **Next.js 15** features  
+- **Headless WordPress** development  
+- Modern **React animations & performance optimization**
 
 ---
 
@@ -22,13 +33,19 @@
 
 ---
 
-### 📂 My Projects
+### 📂 Featured Projects
 | Project | Description | Link |
 |----------|--------------|------|
-| Modern Business Website | Built with React + Tailwind CSS | [View](https://github.com/kumailraza5/modern-business-react) |
-| WordPress Custom Theme | Fully responsive and dynamic | [View](https://github.com/kumailraza5/wp-custom-theme) |
+| Modern Business Website | Responsive React + Tailwind UI for agencies and startups | [View](https://github.com/kumailraza5/modern-business-react) |
+| WordPress Custom Theme | Built for a client with dynamic blog & admin customization | [View](https://github.com/kumailraza5/wp-custom-theme) |
 
-💼 **For more projects and live demos, visit my [Portfolio](https://kumailraza5.vercel.app)**  
+💼 **To explore my work and live demos, visit my [Portfolio](https://kumailraza5.vercel.app)**  
+
+---
+
+### 🤝 Let’s Work Together
+If you’re looking for a **developer who understands design, performance, and business goals**, I’d love to help.  
+Whether it’s a startup website or a full-fledged platform — I can bring it to life.
 
 ---
 
@@ -39,4 +56,4 @@
 
 ---
 
-⭐ **“Code. Create. Deploy. Repeat.”**
+⭐ **"Clean Code. Creative Design. Real Results."**
