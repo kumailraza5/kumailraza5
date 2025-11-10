@@ -20,10 +20,10 @@ Whether it’s a modern React web app, a Webflow design, or a custom WordPress s
 
 | Skill | Description | View |
 |-------|-------------|------|
-| **React.js** | Frontend UI development | [View](https://saloon-app-kiic.onrender.com/) |
-| **WordPress** | Themes, plugins & CMS | [View](https://ubuntuproductions.fi/) |
-| **Webflow** | No-code CMS websites | [View](https://duxdesign-site.webflow.io/) |
-| **Framer** | Animations & interactive UI | [View](https://syncspace.framer.ai/) |
+| **React.js** | Frontend UI development | [View](#https://saloon-app-kiic.onrender.com/) |
+| **WordPress** | Themes, plugins & CMS | [View](#https://ubuntuproductions.fi/) |
+| **Webflow** | No-code CMS websites | [View](#https://duxdesign-site.webflow.io/) |
+| **Framer** | Animations & interactive UI | [View](#https://syncspace.framer.ai/) |
 
 ---
 
