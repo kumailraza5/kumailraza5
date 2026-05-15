@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kumail Raza</h1>
-<h3 align="center">Full Stack & Frontend Developer — React, WordPress, Webflow, Framer & Mobile-Ready Solutions</h3>
+<h3 align="center">Full Stack Developer — React, Node.js, Firebase, Supabase, WordPress & Modern Web Apps</h3>
 
-I’m a **Full Stack & Frontend Developer** from Pakistan, focused on building **fast, scalable, and modern web & mobile-ready applications**.  
-I work with global clients to turn ideas into **high-performance digital products** using clean code and strong UI/UX principles.
+I’m a **Full Stack Developer** from Pakistan, focused on building **fast, scalable, and production-ready web applications**.  
+I help startups and clients turn ideas into **modern digital products** using clean architecture, strong UI/UX, and performance-focused development.
 
 ---
 
 ### 🚀 What I Do
 - ⚛️ Build modern **React.js & Next.js** web applications  
-- 📱 Develop mobile-ready apps using **Flutter & Firebase integration**  
-- 🏗️ Create full-stack solutions with **Node.js, Express & REST APIs**  
-- 🎨 Design responsive websites using **Webflow & Framer (no-code + animations)**  
-- 🧩 Develop and customize **WordPress themes, plugins & CMS systems**  
-- ☁️ Work with **Firebase & Supabase (PostgreSQL backend systems)**  
-- 🔧 Deploy scalable apps with clean architecture and performance optimization  
+- 🏗️ Develop scalable backend systems using **Node.js & Express.js**  
+- ☁️ Work with **Firebase (Auth, Firestore, Realtime Apps)**  
+- 🧠 Build backend-driven apps using **Supabase (PostgreSQL)**  
+- 🎨 Create responsive websites using **WordPress, Webflow & Framer**  
+- 📱 Develop mobile-ready solutions with **Flutter basics + Firebase integration**  
+- 🔧 Build REST APIs and integrate third-party services  
 
 ---
 
@@ -21,14 +21,14 @@ I work with global clients to turn ideas into **high-performance digital product
 
 | Skill | Description | Live |
 |-------|-------------|------|
-| **React.js / Next.js** | Frontend development & SSR apps | [View](https://carshowroom-ws42.onrender.com/) |
-| **Node.js / Express.js** | Backend APIs & server-side logic | — |
+| **React.js / Next.js** | Modern frontend & SSR apps | [View](https://carshowroom-ws42.onrender.com/) |
+| **Node.js / Express.js** | Backend APIs & server logic | — |
 | **Firebase** | Auth, database & real-time apps | — |
-| **Supabase (PostgreSQL)** | Backend-as-a-service & DB handling | — |
-| **Flutter (Dart)** | Mobile app development | — |
-| **WordPress** | CMS, themes & plugin customization | [View](https://ubuntuproductions.fi/) |
-| **Webflow** | No-code responsive websites | [View](https://duxdesign-site.webflow.io/) |
-| **Framer** | Modern animated landing pages | [View](https://syncspace.framer.ai/) |
+| **Supabase (PostgreSQL)** | Backend-as-a-service | — |
+| **WordPress** | CMS, themes & customization | — |
+| **Webflow** | No-code responsive websites | — |
+| **Framer** | Animated landing pages | — |
+| **Flutter (Basic)** | Mobile app development | — |
 
 ---
 
@@ -36,22 +36,23 @@ I work with global clients to turn ideas into **high-performance digital product
 | Project | Description | Link |
 |----------|--------------|------|
 | Car Showroom Platform | React-based responsive web app with modern UI | [View](https://carshowroom-ws42.onrender.com/) |
-| Business Website (WordPress) | CMS-based client site with full customization | [View](https://www.benelke.com.au/) |
-| Webflow Agency Website | Responsive CMS + animations | [View](https://www.agilebydesign.com/) |
-| Framer Landing Page | Smooth UI animations & interactive design | [View](https://wimbo.au/) |
+| OBE System | Full-stack education system with dashboards & analytics | [View](https://obe-system-w2wd.onrender.com/) |
+| Aurevo Store | E-commerce platform with authentication & cart system | [View](https://aurevostore.pk/) |
+| Salon Booking App | Service booking system with modern UI | [View](https://saloon-app-kiic.onrender.com/) |
 
-💼 **Explore more work here →** [Portfolio](https://portfolio-kumailraza.vercel.app/)
+💼 **More Projects →** [Portfolio](https://portfolio-kumailraza.vercel.app/)
 
 ---
 
 ### 🤝 Let’s Work Together
-I help startups, businesses, and clients build **modern web apps, CMS platforms, and mobile-ready systems** with clean UI and strong backend architecture.
+I help businesses build **modern web applications, dashboards, CMS systems, and scalable backend-driven platforms**.
 
 If you need:
-- A scalable web application  
-- A modern business website  
-- A CMS-based WordPress solution  
-- Or a mobile-ready Flutter app  
+- Web applications (React / Next.js)
+- Backend APIs (Node.js / Firebase)
+- E-commerce platforms
+- CMS websites (WordPress / Webflow)
+- SaaS / Dashboard systems
 
 I can help you build it from idea to deployment.
 
@@ -64,4 +65,4 @@ I can help you build it from idea to deployment.
 
 ---
 
-⭐ **Clean Code. Scalable Systems. Modern UI. Real Business Impact.**
+⭐ Clean Code. Scalable Systems. Real Business Impact.
