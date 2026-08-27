@@ -40,7 +40,7 @@ I help startups and clients turn ideas into **modern digital products** using cl
 | Aurevo Store | E-commerce platform with authentication & cart system | [View](https://aurevostore.pk/) |
 | Salon Booking App | Service booking system with modern UI | [View](https://saloon-app-kiic.onrender.com/) |
 
-💼 **More Projects →** [Portfolio](https://portfolio-kumailraza.vercel.app/)
+💼 **More Projects →** [Portfolio](https://kumail-s-dev.onrender.com)
 
 ---
 
