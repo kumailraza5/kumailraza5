@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="620" viewBox="0 0 1280 620" role="img" aria-labelledby="title desc">
+<title id="title">Kumail Raza — Full Stack and Shopify Developer</title>
+<desc id="desc">Dark portfolio cover with lime typography, an extruded monogram, orbital rings and floating code panels.</desc>
+<defs>
+<radialGradient id="bg"><stop stop-color="#303b21"/><stop offset="1" stop-color="#10110e"/></radialGradient>
+<linearGradient id="lime" x2=".8" y2="1"><stop stop-color="#f0ffc0"/><stop offset=".48" stop-color="#d5f36b"/><stop offset="1" stop-color="#789b28"/></linearGradient>
+<linearGradient id="panel" x2="1" y2="1"><stop stop-color="#353b2b"/><stop offset="1" stop-color="#171b13"/></linearGradient>
+<linearGradient id="edge"><stop stop-color="#d5f36b" stop-opacity=".7"/><stop offset="1" stop-color="#d5f36b" stop-opacity=".05"/></linearGradient>
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d5f36b" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1280" height="620" rx="24" fill="#10110e"/>
+<rect x="600" width="680" height="620" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="620" rx="24" fill="url(#grid)"/>
+<rect x="1" y="1" width="1278" height="618" rx="24" fill="none" stroke="#343b28"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="62" y="67" fill="#d5f36b" font-size="34" font-weight="900">kr<tspan font-size="14" baseline-shift="super">®</tspan></text>
+<text x="1218" y="60" text-anchor="end" fill="#aab19b" font-size="12" letter-spacing="3">DESIGN / BUILD / SHIP</text>
+<rect x="62" y="125" width="264" height="32" rx="16" fill="#202817" stroke="#46572b"/>
+<circle cx="80" cy="141" r="4" fill="#d5f36b"/>
+<text x="94" y="146" fill="#d6dfc5" font-size="12" letter-spacing="1">PAKISTAN · WORKING WORLDWIDE</text>
+<text x="58" y="240" fill="#f4f5ed" font-size="74" font-weight="800" letter-spacing="-4">Kumail Raza.</text>
+<text x="62" y="297" fill="#d5f36b" font-size="34" font-weight="700" letter-spacing="-1">Ideas into interfaces.</text>
+<text x="62" y="342" fill="#d5f36b" font-size="34" font-weight="700" letter-spacing="-1">Interfaces into impact.</text>
+<text x="64" y="392" fill="#b0b7a4" font-size="17">Full Stack Developer &amp; Shopify Developer</text>
+<text x="64" y="421" fill="#858e78" font-size="14">React · TypeScript · Node.js · Supabase · Liquid</text>
+<rect x="62" y="462" width="225" height="48" rx="24" fill="#d5f36b"/>
+<text x="88" y="492" fill="#151b0d" font-size="15" font-weight="700">Explore my portfolio</text>
+<path d="M255 480h10v10m0-10-12 12" stroke="#151b0d" stroke-width="2" fill="none"/>
+<text x="63" y="571" fill="#808975" font-size="13" letter-spacing="1">DEVKUMAILRAZA.SITE</text>
+<path d="M620 113v394" stroke="url(#edge)"/>
+<ellipse cx="943" cy="472" rx="200" ry="42" fill="#050704" opacity=".65"/>
+<g transform="rotate(-24 946 310)" fill="none">
+<ellipse cx="946" cy="310" rx="250" ry="116" stroke="#869d53" stroke-width="1.5"/>
+<ellipse cx="946" cy="310" rx="231" ry="101" stroke="#d5f36b" stroke-opacity=".15"/>
+</g>
+<g transform="rotate(31 946 310)" fill="none"><ellipse cx="946" cy="310" rx="193" ry="226" stroke="#d5f36b" stroke-opacity=".13"/></g>
+<g transform="translate(780 190) rotate(-9 150 130)" font-size="178" font-weight="900" letter-spacing="-15">
+<text x="27" y="195" fill="#283612">kr.</text>
+<text x="23" y="190" fill="#3d5020">kr.</text>
+<text x="19" y="185" fill="#506627">kr.</text>
+<text x="15" y="180" fill="#678432">kr.</text>
+<text x="11" y="175" fill="url(#lime)" stroke="#e6ff99" stroke-width="1">kr.</text>
+</g>
+<g transform="translate(1010 128) rotate(11)">
+<rect x="8" y="10" width="176" height="97" rx="14" fill="#060904" opacity=".55"/>
+<rect width="176" height="97" rx="14" fill="url(#panel)" stroke="#5c6e3c"/>
+<circle cx="19" cy="19" r="3" fill="#d5f36b"/><circle cx="30" cy="19" r="3" fill="#66774e"/><circle cx="41" cy="19" r="3" fill="#46523a"/>
+<text x="16" y="54" fill="#e4efce" font-size="18" font-family="monospace">&lt;Build /&gt;</text>
+<text x="17" y="77" fill="#8f9e7b" font-size="10" letter-spacing="2">IDEA → PRODUCT</text>
+</g>
+<g transform="translate(710 399) rotate(-8)">
+<rect x="7" y="9" width="201" height="88" rx="14" fill="#060904" opacity=".6"/>
+<rect width="201" height="88" rx="14" fill="url(#panel)" stroke="#52653a"/>
+<text x="18" y="33" fill="#d5f36b" font-size="14" font-weight="700">SHOPIFY + FULL STACK</text>
+<text x="18" y="59" fill="#9eac8d" font-size="12">Storefronts. Systems. SaaS.</text>
+</g>
+<circle cx="1162" cy="354" r="14" fill="#739334"/><circle cx="1158" cy="350" r="12" fill="url(#lime)"/>
+<circle cx="784" cy="165" r="7" fill="url(#lime)"/>
+<path d="m1135 478 18-11 18 11v22l-18 11-18-11z" fill="#31421d" stroke="#9abb52"/>
+<path d="m1135 478 18 11 18-11m-18 11v22" fill="none" stroke="#9abb52"/>
+<text x="1218" y="570" text-anchor="end" fill="#71805e" font-size="11" letter-spacing="3">CLEAN CODE. CONSIDERED DESIGN.</text>
+</g></svg>
