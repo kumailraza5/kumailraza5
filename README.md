@@ -16,6 +16,8 @@
 <a href="mailto:contact.kumailraza@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20project-252D1C?style=for-the-badge" alt="Start a project" /></a>
 </p>
 
+<p align="center"><img src="./assets/green-builder-grid.svg" width="100%" alt="Full-green decorative grid — design artwork, not actual GitHub contribution data." /></p>
+
 <br />
 <a id="about"></a>
 <img src="./assets/website-about.svg" width="100%" alt="About Kumail: developer from Pakistan creating storefronts, full-stack applications and connected business workflows." />
