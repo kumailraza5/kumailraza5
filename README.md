@@ -32,15 +32,24 @@ I help startups and clients turn ideas into **modern digital products** using cl
 
 ---
 
+### 🌐 Portfolio & Shopify Development
+
+**Portfolio:** https://devkumailraza.site  
+**Shopify Liquid & theme development:** https://devkumailraza.site/shopify-development.html  
+**React / Node.js / Supabase services:** https://devkumailraza.site/full-stack-development.html  
+**Detailed project case studies:** https://devkumailraza.site/case-studies.html
+
 ### 📂 Featured Projects
 | Project | Description | Link |
 |----------|--------------|------|
+| Real Estate Operations CRM | React, Express, Supabase and PostgreSQL workflows | [Case study](https://devkumailraza.site/case-studies/real-estate-crm-saas.html) |
+| Shopify Theme Customization | Zeina Atelier and ScentedVenture storefront work | [Case studies](https://devkumailraza.site/case-studies.html) |
 | Car Showroom Platform | React-based responsive web app with modern UI | [View](https://carshowroom-ws42.onrender.com/) |
 | OBE System | Full-stack education system with dashboards & analytics | [View](https://obe-system-w2wd.onrender.com/) |
 | Aurevo Store | E-commerce platform with authentication & cart system | [View](https://aurevostore.pk/) |
 | Salon Booking App | Service booking system with modern UI | [View](https://saloon-app-kiic.onrender.com/) |
 
-💼 **More Projects →** [Portfolio](https://kumail-s-dev.onrender.com)
+💼 **More Projects →** [Portfolio](https://devkumailraza.site)
 
 ---
 
@@ -50,7 +59,7 @@ I help businesses build **modern web applications, dashboards, CMS systems, and 
 If you need:
 - Web applications (React / Next.js)
 - Backend APIs (Node.js / Firebase)
-- E-commerce platforms
+- Shopify Liquid theme customization and e-commerce platforms
 - CMS websites (WordPress / Webflow)
 - SaaS / Dashboard systems
 
@@ -59,9 +68,9 @@ I can help you build it from idea to deployment.
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumail-raza-4440a9261)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kumail___r_a_z_a/)  
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumailr436@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-kumail-4440a9261)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k.u.m.a.i.l_ra__za/)  
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.kumailraza@gmail.com)
 
 ---
 
