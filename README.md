@@ -1,7 +1,4 @@
-<h1 align="center">Kumail Raza</h1>
-<h3 align="center">Full Stack Developer &amp; Shopify Developer</h3>
-<p align="center">Modern web applications. Thoughtful storefronts. Connected business workflows.</p>
-<p align="center"><b>Based in Pakistan · Working with clients worldwide</b></p>
+<p align="center"><a href="https://devkumailraza.site"><img src="./assets/portfolio-3d-hero.svg" width="100%" alt="Kumail Raza — Full Stack and Shopify Developer. Explore my portfolio." /></a></p>
 
 <p align="center">
   <a href="https://devkumailraza.site"><img src="https://img.shields.io/badge/Explore_Portfolio-D5F36B?style=for-the-badge&logo=googlechrome&logoColor=10110E" alt="Explore portfolio" /></a>
@@ -12,6 +9,8 @@
 ---
 
 I build web applications and storefronts that connect clean interfaces with practical business workflows. My work spans **React, TypeScript, Node.js, Supabase, PostgreSQL and Shopify Liquid**, from CRM dashboards and event platforms to custom e-commerce experiences.
+
+<p align="center"><img src="./assets/portfolio-services.svg" width="100%" alt="Full-stack applications, Shopify storefronts and automation workflows" /></p>
 
 ### What I build
 
@@ -57,7 +56,8 @@ I build web applications and storefronts that connect clean interfaces with prac
 </tr>
 </table>
 
-### Full-stack applications
+<details open="">
+<summary><b>Full-stack applications — explore projects</b></summary>
 
 | Project | Focus | Stack | Explore |
 | --- | --- | --- | --- |
@@ -65,7 +65,10 @@ I build web applications and storefronts that connect clean interfaces with prac
 | **USP OBE System** | An education platform connecting courses, assessments and learning outcomes through role-based dashboards. | React, TypeScript, Node.js, Supabase | [Live site ↗](https://obe-system-w2wd.onrender.com/) · [Source ↗](https://github.com/kumailraza5/OBE-System) |
 | **Elite Motors** | An animated luxury car showroom interface with responsive vehicle listings and a clean presentation. | React, TypeScript, Tailwind, Framer Motion | [Live site ↗](https://carshowroom-ws42.onrender.com/) · [Source ↗](https://github.com/kumailraza5/carshowroom_UI) |
 
-### AI & automation
+</details>
+
+<details>
+<summary><b>AI & automation — explore projects</b></summary>
 
 | Project | Focus | Stack | Explore |
 | --- | --- | --- | --- |
@@ -73,7 +76,10 @@ I build web applications and storefronts that connect clean interfaces with prac
 | **Restaurant Voice Agent** | Voice agent workflow design for restaurant calls, menu questions and order handoff, connected to business data. | Node.js, Python, Supabase, AI APIs | [Portfolio ↗](https://devkumailraza.site/#work) |
 | **Classroom Gadget Detection** | A real-time computer vision project focused on electronic gadgets, small papers and posture-based monitoring. | Python, YOLO, Computer vision | [Portfolio ↗](https://devkumailraza.site/#work) |
 
-### Webflow & Framer
+</details>
+
+<details>
+<summary><b>Webflow & Framer — explore projects</b></summary>
 
 | Project | Focus | Stack | Explore |
 | --- | --- | --- | --- |
@@ -84,7 +90,10 @@ I build web applications and storefronts that connect clean interfaces with prac
 | **Likely** | Developed a sleek, responsive website in Framer for Likely, a predictive conversion intelligence platform. The site showcases key statistics, interactive features like a live ROI calculator, service highlights, and client testimonials, all with clean layouts, modern visuals, and conversion-focused design. | Framer, JavaScript, HTML5, CSS3 | [Live site ↗](https://www.likely.to/) |
 | **Xinovix** | Developed the responsive, modern website for Xinovix using Framer — a design-forward no-code/low-code platform. The site features intuitive navigation, a blog section to share insights, career pages to attract talent, and clean, professional aesthetics tailored to the brand’s tech-driven identity. | Framer, JavaScript, HTML5, CSS3 | [Live site ↗](https://xinovix.framer.website/) |
 
-### WordPress & WooCommerce
+</details>
+
+<details>
+<summary><b>WordPress & WooCommerce — explore projects</b></summary>
 
 | Project | Focus | Stack | Explore |
 | --- | --- | --- | --- |
@@ -95,11 +104,16 @@ I build web applications and storefronts that connect clean interfaces with prac
 | **Mivvy Creative** | Developed a modern, responsive website for Mivvy Creative using Breakdance Builder on WordPress. The site showcases their design services, including branding, web design, and marketing materials, with clean layouts and smooth navigation. | WordPress, Breakdance, WooCommerce, JavaScript | [Live site ↗](https://mivvy.co.uk/) |
 | **SAAM** | Developed a modern, responsive website for SAAM, Switzerland’s leading platform for autonomous mobility, using Bricks Builder on WordPress. The site highlights their vision, mission, working groups, and autonomous vehicle projects with clean layouts and intuitive navigation. | WordPress, Bricks, JavaScript, CSS3 | [Live site ↗](https://www.saam.swiss/fr/) |
 
-### More work
+</details>
+
+<details>
+<summary><b>More work — explore projects</b></summary>
 
 | Project | Focus | Explore |
 | --- | --- | --- |
 | **Salon Booking App** | Service booking system with a responsive interface | [Live site ↗](https://saloon-app-kiic.onrender.com/) · [Source ↗](https://github.com/kumailraza5/Saloon_Web_UI) |
+
+</details>
 
 ### Tools & technologies
 
